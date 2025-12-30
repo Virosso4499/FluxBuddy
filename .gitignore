@@ -1,0 +1,12 @@
+DerivedData/
+*.xcuserdata/
+*.xcuserstate
+.DS_Store
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+__pycache__/
+*.pyc
+.env
+FluxBuddy.xcodeproj/xcuserdata/
+*.xcuserdatad/

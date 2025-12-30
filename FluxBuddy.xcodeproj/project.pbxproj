@@ -6,14 +6,46 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D173445F2EF9BE9700AF6A08 /* TransactionEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = D173445E2EF9BE7E00AF6A08 /* TransactionEntity.swift */; };
+		D17344612EF9BEFF00AF6A08 /* sample_bank.csv in Resources */ = {isa = PBXBuildFile; fileRef = D17344602EF9BEF200AF6A08 /* sample_bank.csv */; };
+		D17344632EF9BFD100AF6A08 /* CSVImport.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17344622EF9BFC300AF6A08 /* CSVImport.swift */; };
+		D173446E2EF9D91700AF6A08 /* AddRecurringView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D173446D2EF9D90D00AF6A08 /* AddRecurringView.swift */; };
+		D17344812EFAB76C00AF6A08 /* CSVLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17344802EFAB76500AF6A08 /* CSVLoader.swift */; };
+		D17344A42F04475D00AF6A08 /* Platform+Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17344A32F04475600AF6A08 /* Platform+Navigation.swift */; };
+		D17344A62F044A1200AF6A08 /* ChartMonthScrolling.swift in Sources */ = {isa = PBXBuildFile; fileRef = D17344A52F044A0A00AF6A08 /* ChartMonthScrolling.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		D17344412EF9ADE200AF6A08 /* FluxBuddy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FluxBuddy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D173445E2EF9BE7E00AF6A08 /* TransactionEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionEntity.swift; sourceTree = "<group>"; };
+		D17344602EF9BEF200AF6A08 /* sample_bank.csv */ = {isa = PBXFileReference; lastKnownFileType = text; path = sample_bank.csv; sourceTree = "<group>"; };
+		D17344622EF9BFC300AF6A08 /* CSVImport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSVImport.swift; sourceTree = "<group>"; };
+		D173446D2EF9D90D00AF6A08 /* AddRecurringView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddRecurringView.swift; sourceTree = "<group>"; };
+		D17344802EFAB76500AF6A08 /* CSVLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CSVLoader.swift; sourceTree = "<group>"; };
+		D17344A32F04475600AF6A08 /* Platform+Navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Platform+Navigation.swift"; sourceTree = "<group>"; };
+		D17344A52F044A0A00AF6A08 /* ChartMonthScrolling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartMonthScrolling.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		D17344432EF9ADE200AF6A08 /* FluxBuddy */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = FluxBuddy;
+			sourceTree = "<group>";
+		};
+		D17344772EFAA4EB00AF6A08 /* MainViews */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = MainViews;
+			sourceTree = "<group>";
+		};
+		D17344882EFAC37800AF6A08 /* Agent */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Agent;
+			sourceTree = "<group>";
+		};
+		D173449B2EFACAE700AF6A08 /* Theme */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Theme;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,8 +64,18 @@
 		D17344382EF9ADE200AF6A08 = {
 			isa = PBXGroup;
 			children = (
+				D17344A32F04475600AF6A08 /* Platform+Navigation.swift */,
+				D173449B2EFACAE700AF6A08 /* Theme */,
+				D17344882EFAC37800AF6A08 /* Agent */,
+				D17344802EFAB76500AF6A08 /* CSVLoader.swift */,
+				D17344622EF9BFC300AF6A08 /* CSVImport.swift */,
+				D173445E2EF9BE7E00AF6A08 /* TransactionEntity.swift */,
+				D17344772EFAA4EB00AF6A08 /* MainViews */,
+				D173446D2EF9D90D00AF6A08 /* AddRecurringView.swift */,
+				D17344602EF9BEF200AF6A08 /* sample_bank.csv */,
 				D17344432EF9ADE200AF6A08 /* FluxBuddy */,
 				D17344422EF9ADE200AF6A08 /* Products */,
+				D17344A52F044A0A00AF6A08 /* ChartMonthScrolling.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,6 +104,9 @@
 			);
 			fileSystemSynchronizedGroups = (
 				D17344432EF9ADE200AF6A08 /* FluxBuddy */,
+				D17344772EFAA4EB00AF6A08 /* MainViews */,
+				D17344882EFAC37800AF6A08 /* Agent */,
+				D173449B2EFACAE700AF6A08 /* Theme */,
 			);
 			name = FluxBuddy;
 			packageProductDependencies = (
@@ -109,6 +154,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D17344612EF9BEFF00AF6A08 /* sample_bank.csv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,6 +165,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D173446E2EF9D91700AF6A08 /* AddRecurringView.swift in Sources */,
+				D17344812EFAB76C00AF6A08 /* CSVLoader.swift in Sources */,
+				D17344A42F04475D00AF6A08 /* Platform+Navigation.swift in Sources */,
+				D173445F2EF9BE9700AF6A08 /* TransactionEntity.swift in Sources */,
+				D17344A62F044A1200AF6A08 /* ChartMonthScrolling.swift in Sources */,
+				D17344632EF9BFD100AF6A08 /* CSVImport.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,10 +312,10 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				MACOSX_DEPLOYMENT_TARGET = 15.6;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = sk.matus.FluxBuddy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -277,7 +329,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 26.2;
+				XROS_DEPLOYMENT_TARGET = 26.0;
 			};
 			name = Debug;
 		};
@@ -302,10 +354,10 @@
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 26.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 26.2;
+				MACOSX_DEPLOYMENT_TARGET = 15.6;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = sk.matus.FluxBuddy;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -319,7 +371,7 @@
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2,7";
-				XROS_DEPLOYMENT_TARGET = 26.2;
+				XROS_DEPLOYMENT_TARGET = 26.0;
 			};
 			name = Release;
 		};

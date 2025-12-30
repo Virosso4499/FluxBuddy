@@ -1,0 +1,946 @@
+Posting date,Value date,Amount,Currency,Type,Preffix,Account Number,Bank Code,IBAN,Variable symbol,Specific symbol,Constant symbol,Payer´s reference,Information for beneficiary,Description
+05.01.2025,05.01.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.01.2025,06.01.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.01.2025,20.01.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+28.01.2025,28.01.2025,"7,62",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+09.01.2025,09.01.2025,"47,72",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+17.01.2025,17.01.2025,"78,58",EUR,Debit,,,,,,,,Sports store,,Shopping
+05.01.2025,05.01.2025,"12,58",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+13.01.2025,13.01.2025,"24,74",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+04.01.2025,04.01.2025,"9,79",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+02.01.2025,02.01.2025,"24,37",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+17.01.2025,17.01.2025,"9,50",EUR,Debit,,,,,,,,Steam games,,Entertainment
+09.01.2025,09.01.2025,"146,37",EUR,Debit,,,,,,,,Alza,,Electronics
+10.01.2025,10.01.2025,"55,57",EUR,Debit,,,,,,,,OMV,,Fuel
+20.01.2025,20.01.2025,"49,85",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+24.01.2025,24.01.2025,"3,30",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+25.01.2025,25.01.2025,"13,41",EUR,Debit,,,,,,,,Steam games,,Entertainment
+27.01.2025,27.01.2025,"47,84",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+21.01.2025,21.01.2025,"42,12",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+09.01.2025,09.01.2025,"4,42",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+28.01.2025,28.01.2025,"8,05",EUR,Debit,,,,,,,,Netflix,,Subscription
+27.01.2025,27.01.2025,"202,30",EUR,Debit,,,,,,,,Alza,,Electronics
+25.01.2025,25.01.2025,"13,75",EUR,Debit,,,,,,,,Netflix,,Subscription
+28.01.2025,28.01.2025,"6,31",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+03.01.2025,03.01.2025,"1,14",EUR,Debit,,,,,,,,MHD lístok,,Transport
+16.01.2025,16.01.2025,"68,14",EUR,Debit,,,,,,,,Electronics store,,Electronics
+19.01.2025,19.01.2025,"5,20",EUR,Debit,,,,,,,,Gym entry,,Fitness
+14.01.2025,14.01.2025,"115,29",EUR,Debit,,,,,,,,Hobby market,,Home
+22.01.2025,22.01.2025,"37,48",EUR,Debit,,,,,,,,Shell,,Fuel
+09.01.2025,09.01.2025,"42,02",EUR,Debit,,,,,,,,Clothing store,,Clothing
+26.01.2025,26.01.2025,"16,68",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+10.01.2025,10.01.2025,"51,24",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+07.01.2025,07.01.2025,"27,67",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+25.01.2025,25.01.2025,"98,34",EUR,Debit,,,,,,,,Clothing store,,Clothing
+20.01.2025,20.01.2025,"9,35",EUR,Debit,,,,,,,,McDonald's,,Dining
+19.01.2025,19.01.2025,"39,01",EUR,Debit,,,,,,,,Sports store,,Shopping
+14.01.2025,14.01.2025,"17,47",EUR,Debit,,,,,,,,Cinema,,Entertainment
+18.01.2025,18.01.2025,"8,11",EUR,Debit,,,,,,,,Netflix,,Subscription
+12.01.2025,12.01.2025,"37,64",EUR,Debit,,,,,,,,OMV,,Fuel
+15.01.2025,15.01.2025,"22,56",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+15.01.2025,15.01.2025,"3,73",EUR,Debit,,,,,,,,Lekáreň,,Health
+03.01.2025,03.01.2025,"132,22",EUR,Debit,,,,,,,,IKEA,,Home
+05.01.2025,05.01.2025,"52,74",EUR,Debit,,,,,,,,OMV,,Fuel
+22.01.2025,22.01.2025,"7,83",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+19.01.2025,19.01.2025,"76,53",EUR,Debit,,,,,,,,IKEA,,Home
+27.01.2025,27.01.2025,"14,15",EUR,Debit,,,,,,,,Billa,,Groceries
+12.01.2025,12.01.2025,"21,32",EUR,Debit,,,,,,,,Billa,,Groceries
+16.01.2025,16.01.2025,"35,12",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+08.01.2025,08.01.2025,"20,76",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+18.01.2025,18.01.2025,"6,49",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+16.01.2025,16.01.2025,"48,28",EUR,Debit,,,,,,,,Kaufland,,Groceries
+13.01.2025,13.01.2025,"26,76",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+26.01.2025,26.01.2025,"23,20",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+01.01.2025,01.01.2025,"93,67",EUR,Debit,,,,,,,,Clothing store,,Clothing
+08.01.2025,08.01.2025,"14,97",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+11.01.2025,11.01.2025,"18,69",EUR,Debit,,,,,,,,Lekáreň,,Health
+17.01.2025,17.01.2025,"12,93",EUR,Debit,,,,,,,,Netflix,,Subscription
+02.01.2025,02.01.2025,"11,51",EUR,Debit,,,,,,,,Cinema,,Entertainment
+15.01.2025,15.01.2025,"31,76",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+16.01.2025,16.01.2025,"18,23",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+15.01.2025,15.01.2025,"40,27",EUR,Debit,,,,,,,,Clothing store,,Clothing
+07.01.2025,07.01.2025,"40,67",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+10.01.2025,10.01.2025,"7,33",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+26.01.2025,26.01.2025,"148,46",EUR,Debit,,,,,,,,IKEA,,Home
+16.01.2025,16.01.2025,"7,50",EUR,Debit,,,,,,,,Gym entry,,Fitness
+22.01.2025,22.01.2025,"57,46",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+19.01.2025,19.01.2025,"8,56",EUR,Debit,,,,,,,,McDonald's,,Dining
+20.01.2025,20.01.2025,"28,29",EUR,Debit,,,,,,,,Billa,,Groceries
+11.01.2025,11.01.2025,"38,13",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+13.01.2025,13.01.2025,"68,43",EUR,Debit,,,,,,,,OMV,,Fuel
+16.01.2025,16.01.2025,"53,09",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+09.01.2025,09.01.2025,"44,94",EUR,Debit,,,,,,,,Kaufland,,Groceries
+01.01.2025,01.01.2025,"5,58",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+27.01.2025,27.01.2025,"176,42",EUR,Debit,,,,,,,,Electronics store,,Electronics
+12.01.2025,12.01.2025,"24,97",EUR,Debit,,,,,,,,Lekáreň,,Health
+27.01.2025,27.01.2025,"5,91",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+24.01.2025,24.01.2025,"117,89",EUR,Debit,,,,,,,,Alza,,Electronics
+03.01.2025,03.01.2025,"24,23",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+23.01.2025,23.01.2025,"56,69",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+11.01.2025,11.01.2025,"194,16",EUR,Debit,,,,,,,,Alza,,Electronics
+12.01.2025,12.01.2025,"0,91",EUR,Debit,,,,,,,,MHD lístok,,Transport
+13.01.2025,13.01.2025,"93,89",EUR,Debit,,,,,,,,Hobby market,,Home
+09.01.2025,09.01.2025,"5,52",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+11.01.2025,11.01.2025,"21,48",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+03.01.2025,03.01.2025,"15,80",EUR,Debit,,,,,,,,Cinema,,Entertainment
+21.01.2025,21.01.2025,"18,57",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+14.01.2025,14.01.2025,"147,13",EUR,Debit,,,,,,,,IKEA,,Home
+09.01.2025,09.01.2025,"8,60",EUR,Debit,,,,,,,,Billa,,Groceries
+10.01.2025,10.01.2025,"13,67",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+09.01.2025,09.01.2025,"16,98",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+16.01.2025,16.01.2025,"14,65",EUR,Debit,,,,,,,,Cinema,,Entertainment
+27.01.2025,27.01.2025,"12,79",EUR,Debit,,,,,,,,Cinema,,Entertainment
+05.02.2025,05.02.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.02.2025,06.02.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.02.2025,20.02.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+01.02.2025,01.02.2025,"14,43",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+03.02.2025,03.02.2025,"10,22",EUR,Debit,,,,,,,,Kaufland,,Groceries
+08.02.2025,08.02.2025,"13,31",EUR,Debit,,,,,,,,McDonald's,,Dining
+05.02.2025,05.02.2025,"33,45",EUR,Debit,,,,,,,,Billa,,Groceries
+25.02.2025,25.02.2025,"10,25",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+06.02.2025,06.02.2025,"52,63",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+28.02.2025,28.02.2025,"8,04",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+20.02.2025,20.02.2025,"91,47",EUR,Debit,,,,,,,,Clothing store,,Clothing
+26.02.2025,26.02.2025,"100,83",EUR,Debit,,,,,,,,IKEA,,Home
+13.02.2025,13.02.2025,"15,85",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+16.02.2025,16.02.2025,"29,78",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+23.02.2025,23.02.2025,"5,92",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+12.02.2025,12.02.2025,"7,55",EUR,Debit,,,,,,,,Billa,,Groceries
+26.02.2025,26.02.2025,"40,64",EUR,Debit,,,,,,,,Steam games,,Entertainment
+09.02.2025,09.02.2025,"11,10",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+23.02.2025,23.02.2025,"43,30",EUR,Debit,,,,,,,,Kaufland,,Groceries
+27.02.2025,27.02.2025,"1,09",EUR,Debit,,,,,,,,MHD lístok,,Transport
+28.02.2025,28.02.2025,"5,24",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+06.02.2025,06.02.2025,"10,14",EUR,Debit,,,,,,,,Hobby market,,Home
+16.02.2025,16.02.2025,"20,40",EUR,Debit,,,,,,,,Alza,,Electronics
+19.02.2025,19.02.2025,"110,74",EUR,Debit,,,,,,,,Hobby market,,Home
+15.02.2025,15.02.2025,"15,90",EUR,Debit,,,,,,,,Cinema,,Entertainment
+05.02.2025,05.02.2025,"13,66",EUR,Debit,,,,,,,,Billa,,Groceries
+24.02.2025,24.02.2025,"16,99",EUR,Debit,,,,,,,,Lekáreň,,Health
+05.02.2025,05.02.2025,"102,39",EUR,Debit,,,,,,,,Hobby market,,Home
+20.02.2025,20.02.2025,"175,21",EUR,Debit,,,,,,,,IKEA,,Home
+19.02.2025,19.02.2025,"12,49",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+18.02.2025,18.02.2025,"39,99",EUR,Debit,,,,,,,,Shell,,Fuel
+02.02.2025,02.02.2025,"32,62",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+07.02.2025,07.02.2025,"12,84",EUR,Debit,,,,,,,,Billa,,Groceries
+11.02.2025,11.02.2025,"45,45",EUR,Debit,,,,,,,,Kaufland,,Groceries
+28.02.2025,28.02.2025,"189,51",EUR,Debit,,,,,,,,Alza,,Electronics
+16.02.2025,16.02.2025,"9,19",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+20.02.2025,20.02.2025,"22,08",EUR,Debit,,,,,,,,Lekáreň,,Health
+17.02.2025,17.02.2025,"29,97",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+11.02.2025,11.02.2025,"211,08",EUR,Debit,,,,,,,,Alza,,Electronics
+22.02.2025,22.02.2025,"0,95",EUR,Debit,,,,,,,,MHD lístok,,Transport
+28.02.2025,28.02.2025,"21,10",EUR,Debit,,,,,,,,Lekáreň,,Health
+22.02.2025,22.02.2025,"8,83",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+17.02.2025,17.02.2025,"9,11",EUR,Debit,,,,,,,,Netflix,,Subscription
+06.02.2025,06.02.2025,"141,87",EUR,Debit,,,,,,,,Alza,,Electronics
+12.02.2025,12.02.2025,"18,79",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+22.02.2025,22.02.2025,"8,60",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+22.02.2025,22.02.2025,"3,21",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+03.02.2025,03.02.2025,"50,77",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+28.02.2025,28.02.2025,"9,24",EUR,Debit,,,,,,,,Netflix,,Subscription
+12.02.2025,12.02.2025,"4,89",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+07.02.2025,07.02.2025,"12,25",EUR,Debit,,,,,,,,Lekáreň,,Health
+14.02.2025,14.02.2025,"25,59",EUR,Debit,,,,,,,,Billa,,Groceries
+06.02.2025,06.02.2025,"32,77",EUR,Debit,,,,,,,,Steam games,,Entertainment
+17.02.2025,17.02.2025,"16,13",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+04.02.2025,04.02.2025,"39,61",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+02.02.2025,02.02.2025,"48,96",EUR,Debit,,,,,,,,Shell,,Fuel
+12.02.2025,12.02.2025,"64,14",EUR,Debit,,,,,,,,OMV,,Fuel
+21.02.2025,21.02.2025,"51,13",EUR,Debit,,,,,,,,Kaufland,,Groceries
+10.02.2025,10.02.2025,"11,77",EUR,Debit,,,,,,,,Netflix,,Subscription
+07.02.2025,07.02.2025,"21,71",EUR,Debit,,,,,,,,Lekáreň,,Health
+10.02.2025,10.02.2025,"17,44",EUR,Debit,,,,,,,,Cinema,,Entertainment
+22.02.2025,22.02.2025,"11,23",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+25.02.2025,25.02.2025,"21,87",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+09.02.2025,09.02.2025,"11,30",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+01.02.2025,01.02.2025,"170,27",EUR,Debit,,,,,,,,IKEA,,Home
+23.02.2025,23.02.2025,"85,09",EUR,Debit,,,,,,,,Hobby market,,Home
+25.02.2025,25.02.2025,"235,70",EUR,Debit,,,,,,,,Electronics store,,Electronics
+17.02.2025,17.02.2025,"41,11",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+07.02.2025,07.02.2025,"15,25",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+16.02.2025,16.02.2025,"4,92",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+07.02.2025,07.02.2025,"22,66",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+03.02.2025,03.02.2025,"88,98",EUR,Debit,,,,,,,,Shell,,Fuel
+22.02.2025,22.02.2025,"43,53",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+15.02.2025,15.02.2025,"7,03",EUR,Debit,,,,,,,,Netflix,,Subscription
+06.02.2025,06.02.2025,"26,27",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+07.02.2025,07.02.2025,"8,36",EUR,Debit,,,,,,,,Netflix,,Subscription
+05.03.2025,05.03.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.03.2025,06.03.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.03.2025,20.03.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+21.03.2025,21.03.2025,"19,99",EUR,Debit,,,,,,,,Kaufland,,Groceries
+23.03.2025,23.03.2025,"70,82",EUR,Debit,,,,,,,,Alza,,Electronics
+22.03.2025,22.03.2025,"25,94",EUR,Debit,,,,,,,,Hobby market,,Home
+02.03.2025,02.03.2025,"59,04",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+01.03.2025,01.03.2025,"0,92",EUR,Debit,,,,,,,,MHD lístok,,Transport
+04.03.2025,04.03.2025,"22,95",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+27.03.2025,27.03.2025,"27,00",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+10.03.2025,10.03.2025,"7,38",EUR,Debit,,,,,,,,Netflix,,Subscription
+09.03.2025,09.03.2025,"173,20",EUR,Debit,,,,,,,,Alza,,Electronics
+22.03.2025,22.03.2025,"10,00",EUR,Debit,,,,,,,,Netflix,,Subscription
+14.03.2025,14.03.2025,"5,39",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+26.03.2025,26.03.2025,"0,90",EUR,Debit,,,,,,,,MHD lístok,,Transport
+18.03.2025,18.03.2025,"61,22",EUR,Debit,,,,,,,,Shell,,Fuel
+21.03.2025,21.03.2025,"32,78",EUR,Debit,,,,,,,,IKEA,,Home
+19.03.2025,19.03.2025,"18,51",EUR,Debit,,,,,,,,Lekáreň,,Health
+18.03.2025,18.03.2025,"15,98",EUR,Debit,,,,,,,,Gym entry,,Fitness
+28.03.2025,28.03.2025,"10,00",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+18.03.2025,18.03.2025,"77,33",EUR,Debit,,,,,,,,Sports store,,Shopping
+08.03.2025,08.03.2025,"7,56",EUR,Debit,,,,,,,,Gym entry,,Fitness
+18.03.2025,18.03.2025,"20,54",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+02.03.2025,02.03.2025,"70,77",EUR,Debit,,,,,,,,OMV,,Fuel
+24.03.2025,24.03.2025,"76,53",EUR,Debit,,,,,,,,Sports store,,Shopping
+15.03.2025,15.03.2025,"79,08",EUR,Debit,,,,,,,,IKEA,,Home
+21.03.2025,21.03.2025,"24,72",EUR,Debit,,,,,,,,Hobby market,,Home
+10.03.2025,10.03.2025,"18,63",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+06.03.2025,06.03.2025,"72,40",EUR,Debit,,,,,,,,OMV,,Fuel
+19.03.2025,19.03.2025,"29,38",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+14.03.2025,14.03.2025,"24,92",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+07.03.2025,07.03.2025,"36,85",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+23.03.2025,23.03.2025,"9,06",EUR,Debit,,,,,,,,Gym entry,,Fitness
+26.03.2025,26.03.2025,"8,36",EUR,Debit,,,,,,,,Netflix,,Subscription
+11.03.2025,11.03.2025,"7,22",EUR,Debit,,,,,,,,Netflix,,Subscription
+23.03.2025,23.03.2025,"1,13",EUR,Debit,,,,,,,,MHD lístok,,Transport
+18.03.2025,18.03.2025,"41,97",EUR,Debit,,,,,,,,Hobby market,,Home
+01.03.2025,01.03.2025,"12,85",EUR,Debit,,,,,,,,McDonald's,,Dining
+09.03.2025,09.03.2025,"9,85",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+07.03.2025,07.03.2025,"13,90",EUR,Debit,,,,,,,,Netflix,,Subscription
+11.03.2025,11.03.2025,"6,30",EUR,Debit,,,,,,,,Steam games,,Entertainment
+16.03.2025,16.03.2025,"96,44",EUR,Debit,,,,,,,,Alza,,Electronics
+25.03.2025,25.03.2025,"41,04",EUR,Debit,,,,,,,,Sports store,,Shopping
+21.03.2025,21.03.2025,"11,47",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+20.03.2025,20.03.2025,"13,07",EUR,Debit,,,,,,,,Lekáreň,,Health
+24.03.2025,24.03.2025,"1,10",EUR,Debit,,,,,,,,MHD lístok,,Transport
+20.03.2025,20.03.2025,"11,29",EUR,Debit,,,,,,,,Netflix,,Subscription
+10.03.2025,10.03.2025,"92,72",EUR,Debit,,,,,,,,Sports store,,Shopping
+14.03.2025,14.03.2025,"124,24",EUR,Debit,,,,,,,,IKEA,,Home
+11.03.2025,11.03.2025,"20,14",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+17.03.2025,17.03.2025,"13,76",EUR,Debit,,,,,,,,Netflix,,Subscription
+03.03.2025,03.03.2025,"12,34",EUR,Debit,,,,,,,,McDonald's,,Dining
+17.03.2025,17.03.2025,"9,00",EUR,Debit,,,,,,,,Gym entry,,Fitness
+24.03.2025,24.03.2025,"5,80",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+10.03.2025,10.03.2025,"7,53",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+16.03.2025,16.03.2025,"7,81",EUR,Debit,,,,,,,,McDonald's,,Dining
+20.03.2025,20.03.2025,"25,41",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+19.03.2025,19.03.2025,"97,62",EUR,Debit,,,,,,,,Alza,,Electronics
+16.03.2025,16.03.2025,"39,54",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+20.03.2025,20.03.2025,"54,15",EUR,Debit,,,,,,,,Kaufland,,Groceries
+28.03.2025,28.03.2025,"129,77",EUR,Debit,,,,,,,,IKEA,,Home
+11.03.2025,11.03.2025,"19,02",EUR,Debit,,,,,,,,Gym entry,,Fitness
+15.03.2025,15.03.2025,"25,98",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+04.03.2025,04.03.2025,"141,05",EUR,Debit,,,,,,,,Electronics store,,Electronics
+09.03.2025,09.03.2025,"15,29",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+17.03.2025,17.03.2025,"11,52",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+14.03.2025,14.03.2025,"101,49",EUR,Debit,,,,,,,,Sports store,,Shopping
+14.03.2025,14.03.2025,"7,59",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+11.03.2025,11.03.2025,"142,03",EUR,Debit,,,,,,,,IKEA,,Home
+09.03.2025,09.03.2025,"6,66",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+12.03.2025,12.03.2025,"105,75",EUR,Debit,,,,,,,,Sports store,,Shopping
+05.03.2025,05.03.2025,"10,28",EUR,Debit,,,,,,,,Netflix,,Subscription
+03.03.2025,03.03.2025,"111,35",EUR,Debit,,,,,,,,Clothing store,,Clothing
+19.03.2025,19.03.2025,"7,59",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+09.03.2025,09.03.2025,"118,36",EUR,Debit,,,,,,,,Alza,,Electronics
+19.03.2025,19.03.2025,"18,90",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+22.03.2025,22.03.2025,"9,09",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+12.03.2025,12.03.2025,"36,82",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+05.04.2025,05.04.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.04.2025,06.04.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.04.2025,20.04.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+06.04.2025,06.04.2025,"11,01",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+10.04.2025,10.04.2025,"43,75",EUR,Debit,,,,,,,,OMV,,Fuel
+03.04.2025,03.04.2025,"16,16",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+13.04.2025,13.04.2025,"58,00",EUR,Debit,,,,,,,,Shell,,Fuel
+20.04.2025,20.04.2025,"14,37",EUR,Debit,,,,,,,,Billa,,Groceries
+15.04.2025,15.04.2025,"14,88",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+25.04.2025,25.04.2025,"111,38",EUR,Debit,,,,,,,,IKEA,,Home
+25.04.2025,25.04.2025,"10,18",EUR,Debit,,,,,,,,Gym entry,,Fitness
+25.04.2025,25.04.2025,"77,64",EUR,Debit,,,,,,,,Alza,,Electronics
+08.04.2025,08.04.2025,"11,76",EUR,Debit,,,,,,,,Steam games,,Entertainment
+13.04.2025,13.04.2025,"10,97",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+17.04.2025,17.04.2025,"5,05",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+19.04.2025,19.04.2025,"12,35",EUR,Debit,,,,,,,,Gym entry,,Fitness
+19.04.2025,19.04.2025,"132,88",EUR,Debit,,,,,,,,IKEA,,Home
+24.04.2025,24.04.2025,"7,77",EUR,Debit,,,,,,,,Cinema,,Entertainment
+04.04.2025,04.04.2025,"13,13",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+03.04.2025,03.04.2025,"174,68",EUR,Debit,,,,,,,,IKEA,,Home
+13.04.2025,13.04.2025,"23,79",EUR,Debit,,,,,,,,Lekáreň,,Health
+02.04.2025,02.04.2025,"33,83",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+01.04.2025,01.04.2025,"24,32",EUR,Debit,,,,,,,,Billa,,Groceries
+10.04.2025,10.04.2025,"34,61",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+05.04.2025,05.04.2025,"34,73",EUR,Debit,,,,,,,,Billa,,Groceries
+02.04.2025,02.04.2025,"35,53",EUR,Debit,,,,,,,,Alza,,Electronics
+22.04.2025,22.04.2025,"11,29",EUR,Debit,,,,,,,,Billa,,Groceries
+18.04.2025,18.04.2025,"110,44",EUR,Debit,,,,,,,,Alza,,Electronics
+01.04.2025,01.04.2025,"7,79",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+07.04.2025,07.04.2025,"6,04",EUR,Debit,,,,,,,,McDonald's,,Dining
+16.04.2025,16.04.2025,"127,82",EUR,Debit,,,,,,,,Electronics store,,Electronics
+08.04.2025,08.04.2025,"36,51",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+09.04.2025,09.04.2025,"62,24",EUR,Debit,,,,,,,,Hobby market,,Home
+02.04.2025,02.04.2025,"6,01",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+11.04.2025,11.04.2025,"29,19",EUR,Debit,,,,,,,,Kaufland,,Groceries
+23.04.2025,23.04.2025,"7,34",EUR,Debit,,,,,,,,McDonald's,,Dining
+25.04.2025,25.04.2025,"10,75",EUR,Debit,,,,,,,,McDonald's,,Dining
+18.04.2025,18.04.2025,"9,35",EUR,Debit,,,,,,,,Steam games,,Entertainment
+17.04.2025,17.04.2025,"48,09",EUR,Debit,,,,,,,,Hobby market,,Home
+14.04.2025,14.04.2025,"8,03",EUR,Debit,,,,,,,,Steam games,,Entertainment
+08.04.2025,08.04.2025,"23,10",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+15.04.2025,15.04.2025,"93,39",EUR,Debit,,,,,,,,Clothing store,,Clothing
+10.04.2025,10.04.2025,"5,27",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+01.04.2025,01.04.2025,"1,10",EUR,Debit,,,,,,,,MHD lístok,,Transport
+09.04.2025,09.04.2025,"20,93",EUR,Debit,,,,,,,,Lekáreň,,Health
+07.04.2025,07.04.2025,"36,79",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+23.04.2025,23.04.2025,"226,38",EUR,Debit,,,,,,,,Electronics store,,Electronics
+10.04.2025,10.04.2025,"9,76",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+05.04.2025,05.04.2025,"20,57",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+05.04.2025,05.04.2025,"9,23",EUR,Debit,,,,,,,,Kaufland,,Groceries
+05.04.2025,05.04.2025,"209,45",EUR,Debit,,,,,,,,Electronics store,,Electronics
+28.04.2025,28.04.2025,"43,74",EUR,Debit,,,,,,,,OMV,,Fuel
+14.04.2025,14.04.2025,"118,32",EUR,Debit,,,,,,,,Alza,,Electronics
+06.04.2025,06.04.2025,"45,47",EUR,Debit,,,,,,,,Hobby market,,Home
+19.04.2025,19.04.2025,"35,15",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+09.04.2025,09.04.2025,"24,53",EUR,Debit,,,,,,,,Kaufland,,Groceries
+20.04.2025,20.04.2025,"8,08",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+12.04.2025,12.04.2025,"18,54",EUR,Debit,,,,,,,,Sports store,,Shopping
+24.04.2025,24.04.2025,"10,35",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+03.04.2025,03.04.2025,"52,34",EUR,Debit,,,,,,,,Steam games,,Entertainment
+03.04.2025,03.04.2025,"59,99",EUR,Debit,,,,,,,,Steam games,,Entertainment
+21.04.2025,21.04.2025,"26,88",EUR,Debit,,,,,,,,Sports store,,Shopping
+27.04.2025,27.04.2025,"8,86",EUR,Debit,,,,,,,,Gym entry,,Fitness
+09.04.2025,09.04.2025,"165,97",EUR,Debit,,,,,,,,IKEA,,Home
+23.04.2025,23.04.2025,"8,71",EUR,Debit,,,,,,,,Cinema,,Entertainment
+06.04.2025,06.04.2025,"1,06",EUR,Debit,,,,,,,,MHD lístok,,Transport
+18.04.2025,18.04.2025,"26,36",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+23.04.2025,23.04.2025,"80,39",EUR,Debit,,,,,,,,Sports store,,Shopping
+13.04.2025,13.04.2025,"22,24",EUR,Debit,,,,,,,,Kaufland,,Groceries
+20.04.2025,20.04.2025,"27,73",EUR,Debit,,,,,,,,Kaufland,,Groceries
+12.04.2025,12.04.2025,"7,17",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+06.04.2025,06.04.2025,"24,69",EUR,Debit,,,,,,,,Lekáreň,,Health
+15.04.2025,15.04.2025,"13,90",EUR,Debit,,,,,,,,McDonald's,,Dining
+20.04.2025,20.04.2025,"80,90",EUR,Debit,,,,,,,,Sports store,,Shopping
+21.04.2025,21.04.2025,"0,92",EUR,Debit,,,,,,,,MHD lístok,,Transport
+05.05.2025,05.05.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.05.2025,06.05.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.05.2025,20.05.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+19.05.2025,19.05.2025,"22,28",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+03.05.2025,03.05.2025,"34,50",EUR,Debit,,,,,,,,Sports store,,Shopping
+23.05.2025,23.05.2025,"16,76",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+28.05.2025,28.05.2025,"7,86",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+26.05.2025,26.05.2025,"82,93",EUR,Debit,,,,,,,,Shell,,Fuel
+17.05.2025,17.05.2025,"44,14",EUR,Debit,,,,,,,,OMV,,Fuel
+09.05.2025,09.05.2025,"4,89",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+12.05.2025,12.05.2025,"9,49",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+04.05.2025,04.05.2025,"80,76",EUR,Debit,,,,,,,,IKEA,,Home
+27.05.2025,27.05.2025,"12,46",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+22.05.2025,22.05.2025,"71,78",EUR,Debit,,,,,,,,Shell,,Fuel
+20.05.2025,20.05.2025,"70,53",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+18.05.2025,18.05.2025,"9,28",EUR,Debit,,,,,,,,Billa,,Groceries
+07.05.2025,07.05.2025,"20,26",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+25.05.2025,25.05.2025,"35,77",EUR,Debit,,,,,,,,Kaufland,,Groceries
+14.05.2025,14.05.2025,"15,84",EUR,Debit,,,,,,,,Cinema,,Entertainment
+11.05.2025,11.05.2025,"52,77",EUR,Debit,,,,,,,,OMV,,Fuel
+11.05.2025,11.05.2025,"49,18",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+01.05.2025,01.05.2025,"5,52",EUR,Debit,,,,,,,,Steam games,,Entertainment
+11.05.2025,11.05.2025,"31,49",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+11.05.2025,11.05.2025,"32,68",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+05.05.2025,05.05.2025,"77,26",EUR,Debit,,,,,,,,Sports store,,Shopping
+12.05.2025,12.05.2025,"1,19",EUR,Debit,,,,,,,,MHD lístok,,Transport
+12.05.2025,12.05.2025,"11,82",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+09.05.2025,09.05.2025,"64,87",EUR,Debit,,,,,,,,Hobby market,,Home
+27.05.2025,27.05.2025,"63,29",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+26.05.2025,26.05.2025,"29,31",EUR,Debit,,,,,,,,Kaufland,,Groceries
+05.05.2025,05.05.2025,"11,21",EUR,Debit,,,,,,,,Cinema,,Entertainment
+03.05.2025,03.05.2025,"111,45",EUR,Debit,,,,,,,,Sports store,,Shopping
+11.05.2025,11.05.2025,"9,84",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+02.05.2025,02.05.2025,"176,26",EUR,Debit,,,,,,,,Alza,,Electronics
+14.05.2025,14.05.2025,"16,05",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+18.05.2025,18.05.2025,"6,44",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+05.05.2025,05.05.2025,"13,68",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+17.05.2025,17.05.2025,"64,86",EUR,Debit,,,,,,,,IKEA,,Home
+03.05.2025,03.05.2025,"23,69",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+10.05.2025,10.05.2025,"8,90",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+22.05.2025,22.05.2025,"16,66",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+16.05.2025,16.05.2025,"9,65",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+05.05.2025,05.05.2025,"9,95",EUR,Debit,,,,,,,,Lekáreň,,Health
+24.05.2025,24.05.2025,"51,80",EUR,Debit,,,,,,,,Shell,,Fuel
+23.05.2025,23.05.2025,"5,47",EUR,Debit,,,,,,,,Gym entry,,Fitness
+20.05.2025,20.05.2025,"21,86",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+22.05.2025,22.05.2025,"20,21",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+26.05.2025,26.05.2025,"38,52",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+23.05.2025,23.05.2025,"106,10",EUR,Debit,,,,,,,,Sports store,,Shopping
+06.05.2025,06.05.2025,"17,10",EUR,Debit,,,,,,,,McDonald's,,Dining
+26.05.2025,26.05.2025,"49,27",EUR,Debit,,,,,,,,Steam games,,Entertainment
+23.05.2025,23.05.2025,"6,55",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+27.05.2025,27.05.2025,"37,51",EUR,Debit,,,,,,,,Shell,,Fuel
+12.05.2025,12.05.2025,"27,22",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+15.05.2025,15.05.2025,"10,52",EUR,Debit,,,,,,,,Lekáreň,,Health
+16.05.2025,16.05.2025,"66,73",EUR,Debit,,,,,,,,IKEA,,Home
+06.05.2025,06.05.2025,"53,31",EUR,Debit,,,,,,,,Kaufland,,Groceries
+03.05.2025,03.05.2025,"92,02",EUR,Debit,,,,,,,,Clothing store,,Clothing
+27.05.2025,27.05.2025,"20,29",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+05.05.2025,05.05.2025,"8,92",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+02.05.2025,02.05.2025,"45,27",EUR,Debit,,,,,,,,OMV,,Fuel
+12.05.2025,12.05.2025,"53,18",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+05.05.2025,05.05.2025,"8,52",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+11.05.2025,11.05.2025,"39,31",EUR,Debit,,,,,,,,Kaufland,,Groceries
+21.05.2025,21.05.2025,"25,62",EUR,Debit,,,,,,,,Clothing store,,Clothing
+04.05.2025,04.05.2025,"13,93",EUR,Debit,,,,,,,,Billa,,Groceries
+16.05.2025,16.05.2025,"17,97",EUR,Debit,,,,,,,,McDonald's,,Dining
+26.05.2025,26.05.2025,"8,34",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+03.05.2025,03.05.2025,"106,27",EUR,Debit,,,,,,,,Hobby market,,Home
+03.05.2025,03.05.2025,"27,46",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+07.05.2025,07.05.2025,"51,45",EUR,Debit,,,,,,,,Alza,,Electronics
+13.05.2025,13.05.2025,"23,42",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+10.05.2025,10.05.2025,"50,94",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+02.05.2025,02.05.2025,"39,63",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+21.05.2025,21.05.2025,"44,09",EUR,Debit,,,,,,,,OMV,,Fuel
+03.05.2025,03.05.2025,"110,07",EUR,Debit,,,,,,,,Clothing store,,Clothing
+19.05.2025,19.05.2025,"42,08",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+07.05.2025,07.05.2025,"0,93",EUR,Debit,,,,,,,,MHD lístok,,Transport
+13.05.2025,13.05.2025,"78,97",EUR,Debit,,,,,,,,Clothing store,,Clothing
+27.05.2025,27.05.2025,"15,78",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+15.05.2025,15.05.2025,"14,94",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+03.05.2025,03.05.2025,"21,70",EUR,Debit,,,,,,,,Billa,,Groceries
+16.05.2025,16.05.2025,"17,79",EUR,Debit,,,,,,,,Billa,,Groceries
+08.05.2025,08.05.2025,"12,80",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+14.05.2025,14.05.2025,"13,99",EUR,Debit,,,,,,,,Netflix,,Subscription
+13.05.2025,13.05.2025,"8,08",EUR,Debit,,,,,,,,Billa,,Groceries
+01.05.2025,01.05.2025,"37,47",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+16.05.2025,16.05.2025,"18,29",EUR,Debit,,,,,,,,Gym entry,,Fitness
+21.05.2025,21.05.2025,"12,65",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+05.06.2025,05.06.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.06.2025,06.06.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.06.2025,20.06.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+02.06.2025,02.06.2025,"71,96",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+11.06.2025,11.06.2025,"201,69",EUR,Debit,,,,,,,,Alza,,Electronics
+10.06.2025,10.06.2025,"90,21",EUR,Debit,,,,,,,,Hobby market,,Home
+18.06.2025,18.06.2025,"9,06",EUR,Debit,,,,,,,,Lekáreň,,Health
+20.06.2025,20.06.2025,"14,77",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+01.06.2025,01.06.2025,"53,16",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+26.06.2025,26.06.2025,"1,19",EUR,Debit,,,,,,,,MHD lístok,,Transport
+10.06.2025,10.06.2025,"9,17",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+08.06.2025,08.06.2025,"59,73",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+16.06.2025,16.06.2025,"16,81",EUR,Debit,,,,,,,,Kaufland,,Groceries
+25.06.2025,25.06.2025,"30,98",EUR,Debit,,,,,,,,Billa,,Groceries
+07.06.2025,07.06.2025,"15,42",EUR,Debit,,,,,,,,Lekáreň,,Health
+10.06.2025,10.06.2025,"57,70",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+04.06.2025,04.06.2025,"1,03",EUR,Debit,,,,,,,,MHD lístok,,Transport
+03.06.2025,03.06.2025,"12,59",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+14.06.2025,14.06.2025,"6,91",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+24.06.2025,24.06.2025,"15,46",EUR,Debit,,,,,,,,Billa,,Groceries
+20.06.2025,20.06.2025,"85,64",EUR,Debit,,,,,,,,Clothing store,,Clothing
+25.06.2025,25.06.2025,"9,84",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+12.06.2025,12.06.2025,"12,57",EUR,Debit,,,,,,,,Lekáreň,,Health
+22.06.2025,22.06.2025,"13,24",EUR,Debit,,,,,,,,Netflix,,Subscription
+09.06.2025,09.06.2025,"8,71",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+07.06.2025,07.06.2025,"8,76",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+14.06.2025,14.06.2025,"167,23",EUR,Debit,,,,,,,,Alza,,Electronics
+13.06.2025,13.06.2025,"38,86",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+24.06.2025,24.06.2025,"161,36",EUR,Debit,,,,,,,,IKEA,,Home
+05.06.2025,05.06.2025,"70,92",EUR,Debit,,,,,,,,Sports store,,Shopping
+20.06.2025,20.06.2025,"7,95",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+12.06.2025,12.06.2025,"168,65",EUR,Debit,,,,,,,,Electronics store,,Electronics
+28.06.2025,28.06.2025,"10,06",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+08.06.2025,08.06.2025,"1,19",EUR,Debit,,,,,,,,MHD lístok,,Transport
+04.06.2025,04.06.2025,"6,79",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+27.06.2025,27.06.2025,"41,39",EUR,Debit,,,,,,,,Steam games,,Entertainment
+14.06.2025,14.06.2025,"15,27",EUR,Debit,,,,,,,,Hobby market,,Home
+02.06.2025,02.06.2025,"36,30",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+09.06.2025,09.06.2025,"109,92",EUR,Debit,,,,,,,,Hobby market,,Home
+03.06.2025,03.06.2025,"64,07",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+09.06.2025,09.06.2025,"51,85",EUR,Debit,,,,,,,,Shell,,Fuel
+26.06.2025,26.06.2025,"38,41",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+04.06.2025,04.06.2025,"13,60",EUR,Debit,,,,,,,,Billa,,Groceries
+03.06.2025,03.06.2025,"18,04",EUR,Debit,,,,,,,,Gym entry,,Fitness
+23.06.2025,23.06.2025,"57,94",EUR,Debit,,,,,,,,IKEA,,Home
+26.06.2025,26.06.2025,"22,99",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+18.06.2025,18.06.2025,"24,98",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+04.06.2025,04.06.2025,"51,71",EUR,Debit,,,,,,,,Clothing store,,Clothing
+17.06.2025,17.06.2025,"8,62",EUR,Debit,,,,,,,,Billa,,Groceries
+22.06.2025,22.06.2025,"148,57",EUR,Debit,,,,,,,,IKEA,,Home
+10.06.2025,10.06.2025,"16,24",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+01.06.2025,01.06.2025,"13,46",EUR,Debit,,,,,,,,McDonald's,,Dining
+27.06.2025,27.06.2025,"7,69",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+09.06.2025,09.06.2025,"32,22",EUR,Debit,,,,,,,,Billa,,Groceries
+25.06.2025,25.06.2025,"27,02",EUR,Debit,,,,,,,,Clothing store,,Clothing
+06.06.2025,06.06.2025,"21,78",EUR,Debit,,,,,,,,Billa,,Groceries
+18.06.2025,18.06.2025,"12,53",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+21.06.2025,21.06.2025,"27,56",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+24.06.2025,24.06.2025,"45,31",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+04.06.2025,04.06.2025,"24,70",EUR,Debit,,,,,,,,Alza,,Electronics
+20.06.2025,20.06.2025,"24,43",EUR,Debit,,,,,,,,Lekáreň,,Health
+22.06.2025,22.06.2025,"31,77",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+17.06.2025,17.06.2025,"9,93",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+20.06.2025,20.06.2025,"78,82",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+14.06.2025,14.06.2025,"11,62",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+05.07.2025,05.07.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.07.2025,06.07.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.07.2025,20.07.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+15.07.2025,15.07.2025,"41,84",EUR,Debit,,,,,,,,Sports store,,Shopping
+09.07.2025,09.07.2025,"12,01",EUR,Debit,,,,,,,,Netflix,,Subscription
+01.07.2025,01.07.2025,"9,10",EUR,Debit,,,,,,,,Netflix,,Subscription
+09.07.2025,09.07.2025,"36,61",EUR,Debit,,,,,,,,Kaufland,,Groceries
+26.07.2025,26.07.2025,"10,09",EUR,Debit,,,,,,,,Cinema,,Entertainment
+10.07.2025,10.07.2025,"73,35",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+05.07.2025,05.07.2025,"58,78",EUR,Debit,,,,,,,,Shell,,Fuel
+27.07.2025,27.07.2025,"45,98",EUR,Debit,,,,,,,,Steam games,,Entertainment
+19.07.2025,19.07.2025,"29,24",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+17.07.2025,17.07.2025,"45,32",EUR,Debit,,,,,,,,IKEA,,Home
+27.07.2025,27.07.2025,"62,06",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+18.07.2025,18.07.2025,"29,54",EUR,Debit,,,,,,,,Kaufland,,Groceries
+25.07.2025,25.07.2025,"47,15",EUR,Debit,,,,,,,,Steam games,,Entertainment
+15.07.2025,15.07.2025,"13,08",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+07.07.2025,07.07.2025,"42,75",EUR,Debit,,,,,,,,Alza,,Electronics
+26.07.2025,26.07.2025,"6,32",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+12.07.2025,12.07.2025,"41,76",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+12.07.2025,12.07.2025,"22,70",EUR,Debit,,,,,,,,Billa,,Groceries
+09.07.2025,09.07.2025,"21,33",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+16.07.2025,16.07.2025,"54,48",EUR,Debit,,,,,,,,Kaufland,,Groceries
+19.07.2025,19.07.2025,"12,71",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+02.07.2025,02.07.2025,"8,17",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+27.07.2025,27.07.2025,"17,99",EUR,Debit,,,,,,,,Cinema,,Entertainment
+07.07.2025,07.07.2025,"8,51",EUR,Debit,,,,,,,,Cinema,,Entertainment
+12.07.2025,12.07.2025,"7,11",EUR,Debit,,,,,,,,Cinema,,Entertainment
+09.07.2025,09.07.2025,"34,26",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+10.07.2025,10.07.2025,"13,07",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+04.07.2025,04.07.2025,"12,37",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+20.07.2025,20.07.2025,"23,09",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+22.07.2025,22.07.2025,"1,18",EUR,Debit,,,,,,,,MHD lístok,,Transport
+01.07.2025,01.07.2025,"19,27",EUR,Debit,,,,,,,,Gym entry,,Fitness
+23.07.2025,23.07.2025,"32,81",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+06.07.2025,06.07.2025,"13,71",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+26.07.2025,26.07.2025,"8,93",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+05.07.2025,05.07.2025,"1,00",EUR,Debit,,,,,,,,MHD lístok,,Transport
+03.07.2025,03.07.2025,"14,25",EUR,Debit,,,,,,,,Gym entry,,Fitness
+01.07.2025,01.07.2025,"0,96",EUR,Debit,,,,,,,,MHD lístok,,Transport
+14.07.2025,14.07.2025,"48,87",EUR,Debit,,,,,,,,OMV,,Fuel
+04.07.2025,04.07.2025,"16,41",EUR,Debit,,,,,,,,Lekáreň,,Health
+07.07.2025,07.07.2025,"7,37",EUR,Debit,,,,,,,,Gym entry,,Fitness
+05.07.2025,05.07.2025,"110,55",EUR,Debit,,,,,,,,Hobby market,,Home
+14.07.2025,14.07.2025,"20,89",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+06.07.2025,06.07.2025,"37,19",EUR,Debit,,,,,,,,Shell,,Fuel
+12.07.2025,12.07.2025,"4,91",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+19.07.2025,19.07.2025,"60,33",EUR,Debit,,,,,,,,Clothing store,,Clothing
+14.07.2025,14.07.2025,"47,93",EUR,Debit,,,,,,,,Alza,,Electronics
+22.07.2025,22.07.2025,"17,91",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+14.07.2025,14.07.2025,"14,95",EUR,Debit,,,,,,,,Lekáreň,,Health
+10.07.2025,10.07.2025,"41,72",EUR,Debit,,,,,,,,OMV,,Fuel
+08.07.2025,08.07.2025,"25,24",EUR,Debit,,,,,,,,Sports store,,Shopping
+14.07.2025,14.07.2025,"13,84",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+28.07.2025,28.07.2025,"23,70",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+14.07.2025,14.07.2025,"6,94",EUR,Debit,,,,,,,,Gym entry,,Fitness
+05.07.2025,05.07.2025,"93,39",EUR,Debit,,,,,,,,Hobby market,,Home
+12.07.2025,12.07.2025,"82,02",EUR,Debit,,,,,,,,Electronics store,,Electronics
+27.07.2025,27.07.2025,"10,66",EUR,Debit,,,,,,,,Cinema,,Entertainment
+18.07.2025,18.07.2025,"69,01",EUR,Debit,,,,,,,,Alza,,Electronics
+09.07.2025,09.07.2025,"49,63",EUR,Debit,,,,,,,,IKEA,,Home
+04.07.2025,04.07.2025,"29,25",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+06.07.2025,06.07.2025,"49,07",EUR,Debit,,,,,,,,Clothing store,,Clothing
+19.07.2025,19.07.2025,"85,34",EUR,Debit,,,,,,,,Shell,,Fuel
+11.07.2025,11.07.2025,"13,53",EUR,Debit,,,,,,,,Lekáreň,,Health
+22.07.2025,22.07.2025,"13,80",EUR,Debit,,,,,,,,Netflix,,Subscription
+14.07.2025,14.07.2025,"5,45",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+01.07.2025,01.07.2025,"17,45",EUR,Debit,,,,,,,,Kaufland,,Groceries
+17.07.2025,17.07.2025,"46,96",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+05.07.2025,05.07.2025,"36,85",EUR,Debit,,,,,,,,Shell,,Fuel
+26.07.2025,26.07.2025,"99,34",EUR,Debit,,,,,,,,Clothing store,,Clothing
+04.07.2025,04.07.2025,"34,60",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+09.07.2025,09.07.2025,"79,87",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+04.07.2025,04.07.2025,"24,36",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+24.07.2025,24.07.2025,"229,91",EUR,Debit,,,,,,,,Electronics store,,Electronics
+28.07.2025,28.07.2025,"16,82",EUR,Debit,,,,,,,,McDonald's,,Dining
+08.07.2025,08.07.2025,"17,08",EUR,Debit,,,,,,,,Cinema,,Entertainment
+27.07.2025,27.07.2025,"8,69",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+03.07.2025,03.07.2025,"21,88",EUR,Debit,,,,,,,,Lekáreň,,Health
+05.08.2025,05.08.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.08.2025,06.08.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.08.2025,20.08.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+06.08.2025,06.08.2025,"53,66",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+16.08.2025,16.08.2025,"12,92",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+06.08.2025,06.08.2025,"56,77",EUR,Debit,,,,,,,,Steam games,,Entertainment
+14.08.2025,14.08.2025,"47,96",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+14.08.2025,14.08.2025,"41,99",EUR,Debit,,,,,,,,Steam games,,Entertainment
+20.08.2025,20.08.2025,"214,19",EUR,Debit,,,,,,,,Electronics store,,Electronics
+06.08.2025,06.08.2025,"21,28",EUR,Debit,,,,,,,,Billa,,Groceries
+17.08.2025,17.08.2025,"36,97",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+16.08.2025,16.08.2025,"56,93",EUR,Debit,,,,,,,,OMV,,Fuel
+21.08.2025,21.08.2025,"12,95",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+22.08.2025,22.08.2025,"54,74",EUR,Debit,,,,,,,,Sports store,,Shopping
+23.08.2025,23.08.2025,"15,54",EUR,Debit,,,,,,,,Gym entry,,Fitness
+16.08.2025,16.08.2025,"5,78",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+09.08.2025,09.08.2025,"25,93",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+16.08.2025,16.08.2025,"25,47",EUR,Debit,,,,,,,,Sports store,,Shopping
+28.08.2025,28.08.2025,"28,79",EUR,Debit,,,,,,,,Clothing store,,Clothing
+24.08.2025,24.08.2025,"122,16",EUR,Debit,,,,,,,,IKEA,,Home
+27.08.2025,27.08.2025,"14,41",EUR,Debit,,,,,,,,Cinema,,Entertainment
+17.08.2025,17.08.2025,"9,92",EUR,Debit,,,,,,,,Gym entry,,Fitness
+18.08.2025,18.08.2025,"6,67",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+07.08.2025,07.08.2025,"207,26",EUR,Debit,,,,,,,,Electronics store,,Electronics
+06.08.2025,06.08.2025,"33,22",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+06.08.2025,06.08.2025,"26,89",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+18.08.2025,18.08.2025,"11,82",EUR,Debit,,,,,,,,Steam games,,Entertainment
+27.08.2025,27.08.2025,"23,50",EUR,Debit,,,,,,,,Kaufland,,Groceries
+08.08.2025,08.08.2025,"45,70",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+05.08.2025,05.08.2025,"181,52",EUR,Debit,,,,,,,,Electronics store,,Electronics
+20.08.2025,20.08.2025,"16,25",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+08.08.2025,08.08.2025,"10,40",EUR,Debit,,,,,,,,Cinema,,Entertainment
+07.08.2025,07.08.2025,"34,81",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+10.08.2025,10.08.2025,"13,29",EUR,Debit,,,,,,,,Netflix,,Subscription
+18.08.2025,18.08.2025,"8,72",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+21.08.2025,21.08.2025,"95,46",EUR,Debit,,,,,,,,IKEA,,Home
+20.08.2025,20.08.2025,"18,20",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+24.08.2025,24.08.2025,"9,73",EUR,Debit,,,,,,,,Netflix,,Subscription
+12.08.2025,12.08.2025,"48,78",EUR,Debit,,,,,,,,OMV,,Fuel
+05.08.2025,05.08.2025,"10,87",EUR,Debit,,,,,,,,Kaufland,,Groceries
+20.08.2025,20.08.2025,"55,11",EUR,Debit,,,,,,,,Alza,,Electronics
+11.08.2025,11.08.2025,"14,90",EUR,Debit,,,,,,,,Cinema,,Entertainment
+28.08.2025,28.08.2025,"5,20",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+22.08.2025,22.08.2025,"35,59",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+14.08.2025,14.08.2025,"38,06",EUR,Debit,,,,,,,,Steam games,,Entertainment
+07.08.2025,07.08.2025,"5,45",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+14.08.2025,14.08.2025,"12,14",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+04.08.2025,04.08.2025,"21,67",EUR,Debit,,,,,,,,Sports store,,Shopping
+23.08.2025,23.08.2025,"44,69",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+21.08.2025,21.08.2025,"116,49",EUR,Debit,,,,,,,,Clothing store,,Clothing
+13.08.2025,13.08.2025,"83,07",EUR,Debit,,,,,,,,Shell,,Fuel
+28.08.2025,28.08.2025,"47,42",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+06.08.2025,06.08.2025,"6,24",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+23.08.2025,23.08.2025,"36,40",EUR,Debit,,,,,,,,Alza,,Electronics
+23.08.2025,23.08.2025,"21,39",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+01.08.2025,01.08.2025,"8,18",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+21.08.2025,21.08.2025,"98,50",EUR,Debit,,,,,,,,IKEA,,Home
+21.08.2025,21.08.2025,"16,08",EUR,Debit,,,,,,,,Gym entry,,Fitness
+07.08.2025,07.08.2025,"7,41",EUR,Debit,,,,,,,,Netflix,,Subscription
+02.08.2025,02.08.2025,"31,73",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+02.08.2025,02.08.2025,"29,16",EUR,Debit,,,,,,,,Kaufland,,Groceries
+21.08.2025,21.08.2025,"19,30",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+28.08.2025,28.08.2025,"12,16",EUR,Debit,,,,,,,,McDonald's,,Dining
+23.08.2025,23.08.2025,"41,17",EUR,Debit,,,,,,,,OMV,,Fuel
+21.08.2025,21.08.2025,"7,58",EUR,Debit,,,,,,,,Netflix,,Subscription
+04.08.2025,04.08.2025,"71,28",EUR,Debit,,,,,,,,Shell,,Fuel
+15.08.2025,15.08.2025,"15,51",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+07.08.2025,07.08.2025,"32,24",EUR,Debit,,,,,,,,Sports store,,Shopping
+02.08.2025,02.08.2025,"14,04",EUR,Debit,,,,,,,,Lekáreň,,Health
+10.08.2025,10.08.2025,"21,89",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+17.08.2025,17.08.2025,"25,51",EUR,Debit,,,,,,,,Kaufland,,Groceries
+20.08.2025,20.08.2025,"7,12",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+12.08.2025,12.08.2025,"109,36",EUR,Debit,,,,,,,,Alza,,Electronics
+01.08.2025,01.08.2025,"22,99",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+26.08.2025,26.08.2025,"10,01",EUR,Debit,,,,,,,,Hobby market,,Home
+03.08.2025,03.08.2025,"42,52",EUR,Debit,,,,,,,,Shell,,Fuel
+24.08.2025,24.08.2025,"50,40",EUR,Debit,,,,,,,,Steam games,,Entertainment
+14.08.2025,14.08.2025,"13,59",EUR,Debit,,,,,,,,Kaufland,,Groceries
+05.09.2025,05.09.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.09.2025,06.09.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.09.2025,20.09.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+06.09.2025,06.09.2025,"48,03",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+18.09.2025,18.09.2025,"28,25",EUR,Debit,,,,,,,,Billa,,Groceries
+01.09.2025,01.09.2025,"78,39",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+17.09.2025,17.09.2025,"91,25",EUR,Debit,,,,,,,,IKEA,,Home
+08.09.2025,08.09.2025,"21,85",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+27.09.2025,27.09.2025,"3,51",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+15.09.2025,15.09.2025,"10,70",EUR,Debit,,,,,,,,Netflix,,Subscription
+03.09.2025,03.09.2025,"13,28",EUR,Debit,,,,,,,,Netflix,,Subscription
+17.09.2025,17.09.2025,"78,64",EUR,Debit,,,,,,,,Alza,,Electronics
+25.09.2025,25.09.2025,"18,38",EUR,Debit,,,,,,,,Lekáreň,,Health
+24.09.2025,24.09.2025,"9,69",EUR,Debit,,,,,,,,Netflix,,Subscription
+13.09.2025,13.09.2025,"28,45",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+13.09.2025,13.09.2025,"16,66",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+16.09.2025,16.09.2025,"22,14",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+24.09.2025,24.09.2025,"18,51",EUR,Debit,,,,,,,,Lekáreň,,Health
+10.09.2025,10.09.2025,"43,22",EUR,Debit,,,,,,,,Hobby market,,Home
+03.09.2025,03.09.2025,"25,54",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+18.09.2025,18.09.2025,"25,63",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+24.09.2025,24.09.2025,"78,42",EUR,Debit,,,,,,,,Hobby market,,Home
+09.09.2025,09.09.2025,"81,32",EUR,Debit,,,,,,,,Hobby market,,Home
+22.09.2025,22.09.2025,"17,16",EUR,Debit,,,,,,,,Lekáreň,,Health
+14.09.2025,14.09.2025,"58,54",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+23.09.2025,23.09.2025,"8,44",EUR,Debit,,,,,,,,Netflix,,Subscription
+21.09.2025,21.09.2025,"111,82",EUR,Debit,,,,,,,,Sports store,,Shopping
+08.09.2025,08.09.2025,"18,89",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+06.09.2025,06.09.2025,"7,69",EUR,Debit,,,,,,,,Netflix,,Subscription
+06.09.2025,06.09.2025,"57,46",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+26.09.2025,26.09.2025,"10,85",EUR,Debit,,,,,,,,Steam games,,Entertainment
+22.09.2025,22.09.2025,"58,29",EUR,Debit,,,,,,,,IKEA,,Home
+03.09.2025,03.09.2025,"10,12",EUR,Debit,,,,,,,,Netflix,,Subscription
+18.09.2025,18.09.2025,"3,64",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+07.09.2025,07.09.2025,"9,96",EUR,Debit,,,,,,,,Gym entry,,Fitness
+14.09.2025,14.09.2025,"15,18",EUR,Debit,,,,,,,,Lekáreň,,Health
+13.09.2025,13.09.2025,"82,59",EUR,Debit,,,,,,,,Shell,,Fuel
+23.09.2025,23.09.2025,"19,42",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+24.09.2025,24.09.2025,"11,00",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+12.09.2025,12.09.2025,"36,76",EUR,Debit,,,,,,,,Hobby market,,Home
+19.09.2025,19.09.2025,"79,14",EUR,Debit,,,,,,,,Shell,,Fuel
+03.09.2025,03.09.2025,"17,23",EUR,Debit,,,,,,,,Gym entry,,Fitness
+01.09.2025,01.09.2025,"32,24",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+15.09.2025,15.09.2025,"201,49",EUR,Debit,,,,,,,,Electronics store,,Electronics
+13.09.2025,13.09.2025,"8,86",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+09.09.2025,09.09.2025,"18,84",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+28.09.2025,28.09.2025,"11,95",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+26.09.2025,26.09.2025,"48,96",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+11.09.2025,11.09.2025,"8,22",EUR,Debit,,,,,,,,Kaufland,,Groceries
+04.09.2025,04.09.2025,"28,05",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+24.09.2025,24.09.2025,"63,85",EUR,Debit,,,,,,,,OMV,,Fuel
+03.09.2025,03.09.2025,"19,56",EUR,Debit,,,,,,,,Lekáreň,,Health
+22.09.2025,22.09.2025,"39,67",EUR,Debit,,,,,,,,Kaufland,,Groceries
+26.09.2025,26.09.2025,"16,73",EUR,Debit,,,,,,,,McDonald's,,Dining
+17.09.2025,17.09.2025,"10,79",EUR,Debit,,,,,,,,Hobby market,,Home
+18.09.2025,18.09.2025,"109,11",EUR,Debit,,,,,,,,Hobby market,,Home
+02.09.2025,02.09.2025,"15,65",EUR,Debit,,,,,,,,Gym entry,,Fitness
+06.09.2025,06.09.2025,"22,73",EUR,Debit,,,,,,,,Sports store,,Shopping
+20.09.2025,20.09.2025,"13,43",EUR,Debit,,,,,,,,Netflix,,Subscription
+01.09.2025,01.09.2025,"4,43",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+02.09.2025,02.09.2025,"15,07",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+10.09.2025,10.09.2025,"211,18",EUR,Debit,,,,,,,,Electronics store,,Electronics
+14.09.2025,14.09.2025,"46,46",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+13.09.2025,13.09.2025,"46,95",EUR,Debit,,,,,,,,OMV,,Fuel
+22.09.2025,22.09.2025,"91,03",EUR,Debit,,,,,,,,Alza,,Electronics
+19.09.2025,19.09.2025,"177,84",EUR,Debit,,,,,,,,Electronics store,,Electronics
+25.09.2025,25.09.2025,"37,66",EUR,Debit,,,,,,,,Shell,,Fuel
+11.09.2025,11.09.2025,"41,85",EUR,Debit,,,,,,,,Steam games,,Entertainment
+09.09.2025,09.09.2025,"26,09",EUR,Debit,,,,,,,,Hobby market,,Home
+03.09.2025,03.09.2025,"54,36",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+26.09.2025,26.09.2025,"39,41",EUR,Debit,,,,,,,,Steam games,,Entertainment
+13.09.2025,13.09.2025,"10,20",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+01.09.2025,01.09.2025,"110,41",EUR,Debit,,,,,,,,Sports store,,Shopping
+10.09.2025,10.09.2025,"16,89",EUR,Debit,,,,,,,,McDonald's,,Dining
+08.09.2025,08.09.2025,"53,41",EUR,Debit,,,,,,,,Hobby market,,Home
+11.09.2025,11.09.2025,"21,63",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+01.09.2025,01.09.2025,"7,03",EUR,Debit,,,,,,,,Netflix,,Subscription
+03.09.2025,03.09.2025,"115,36",EUR,Debit,,,,,,,,Alza,,Electronics
+14.09.2025,14.09.2025,"94,32",EUR,Debit,,,,,,,,Alza,,Electronics
+20.09.2025,20.09.2025,"10,61",EUR,Debit,,,,,,,,Netflix,,Subscription
+05.10.2025,05.10.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.10.2025,06.10.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.10.2025,20.10.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+13.10.2025,13.10.2025,"9,46",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+10.10.2025,10.10.2025,"17,94",EUR,Debit,,,,,,,,McDonald's,,Dining
+13.10.2025,13.10.2025,"30,89",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+03.10.2025,03.10.2025,"13,70",EUR,Debit,,,,,,,,Lekáreň,,Health
+01.10.2025,01.10.2025,"10,32",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+20.10.2025,20.10.2025,"44,16",EUR,Debit,,,,,,,,Sports store,,Shopping
+26.10.2025,26.10.2025,"25,69",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+27.10.2025,27.10.2025,"210,73",EUR,Debit,,,,,,,,Alza,,Electronics
+02.10.2025,02.10.2025,"7,47",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+28.10.2025,28.10.2025,"12,68",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+01.10.2025,01.10.2025,"8,21",EUR,Debit,,,,,,,,McDonald's,,Dining
+20.10.2025,20.10.2025,"7,50",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+09.10.2025,09.10.2025,"6,87",EUR,Debit,,,,,,,,Billa,,Groceries
+11.10.2025,11.10.2025,"49,59",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+18.10.2025,18.10.2025,"1,07",EUR,Debit,,,,,,,,MHD lístok,,Transport
+07.10.2025,07.10.2025,"157,23",EUR,Debit,,,,,,,,Electronics store,,Electronics
+09.10.2025,09.10.2025,"169,49",EUR,Debit,,,,,,,,Alza,,Electronics
+04.10.2025,04.10.2025,"8,55",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+05.10.2025,05.10.2025,"8,35",EUR,Debit,,,,,,,,Netflix,,Subscription
+12.10.2025,12.10.2025,"5,24",EUR,Debit,,,,,,,,Lekáreň,,Health
+01.10.2025,01.10.2025,"167,22",EUR,Debit,,,,,,,,Electronics store,,Electronics
+23.10.2025,23.10.2025,"27,06",EUR,Debit,,,,,,,,Sports store,,Shopping
+13.10.2025,13.10.2025,"11,83",EUR,Debit,,,,,,,,Lekáreň,,Health
+24.10.2025,24.10.2025,"20,91",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+18.10.2025,18.10.2025,"24,58",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+24.10.2025,24.10.2025,"50,21",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+14.10.2025,14.10.2025,"54,41",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+15.10.2025,15.10.2025,"14,44",EUR,Debit,,,,,,,,IKEA,,Home
+22.10.2025,22.10.2025,"30,85",EUR,Debit,,,,,,,,Hobby market,,Home
+24.10.2025,24.10.2025,"8,57",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+06.10.2025,06.10.2025,"15,68",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+20.10.2025,20.10.2025,"6,92",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+21.10.2025,21.10.2025,"82,09",EUR,Debit,,,,,,,,OMV,,Fuel
+21.10.2025,21.10.2025,"13,64",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+06.10.2025,06.10.2025,"11,58",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+05.10.2025,05.10.2025,"151,35",EUR,Debit,,,,,,,,Electronics store,,Electronics
+10.10.2025,10.10.2025,"8,65",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+23.10.2025,23.10.2025,"33,12",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+27.10.2025,27.10.2025,"16,13",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+21.10.2025,21.10.2025,"6,51",EUR,Debit,,,,,,,,Billa,,Groceries
+20.10.2025,20.10.2025,"8,90",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+27.10.2025,27.10.2025,"11,91",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+14.10.2025,14.10.2025,"6,66",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+01.10.2025,01.10.2025,"129,38",EUR,Debit,,,,,,,,Alza,,Electronics
+05.10.2025,05.10.2025,"7,43",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+24.10.2025,24.10.2025,"54,99",EUR,Debit,,,,,,,,Steam games,,Entertainment
+05.10.2025,05.10.2025,"20,18",EUR,Debit,,,,,,,,Billa,,Groceries
+06.10.2025,06.10.2025,"10,21",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+03.10.2025,03.10.2025,"23,88",EUR,Debit,,,,,,,,Lekáreň,,Health
+04.10.2025,04.10.2025,"34,76",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+17.10.2025,17.10.2025,"84,80",EUR,Debit,,,,,,,,Sports store,,Shopping
+06.10.2025,06.10.2025,"36,38",EUR,Debit,,,,,,,,Kaufland,,Groceries
+10.10.2025,10.10.2025,"14,08",EUR,Debit,,,,,,,,Billa,,Groceries
+26.10.2025,26.10.2025,"33,14",EUR,Debit,,,,,,,,Kaufland,,Groceries
+01.10.2025,01.10.2025,"35,01",EUR,Debit,,,,,,,,Sports store,,Shopping
+10.10.2025,10.10.2025,"15,02",EUR,Debit,,,,,,,,Sports store,,Shopping
+17.10.2025,17.10.2025,"90,94",EUR,Debit,,,,,,,,Sports store,,Shopping
+26.10.2025,26.10.2025,"48,79",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+04.10.2025,04.10.2025,"33,30",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+09.10.2025,09.10.2025,"201,52",EUR,Debit,,,,,,,,Alza,,Electronics
+09.10.2025,09.10.2025,"109,70",EUR,Debit,,,,,,,,Clothing store,,Clothing
+25.10.2025,25.10.2025,"154,83",EUR,Debit,,,,,,,,IKEA,,Home
+10.10.2025,10.10.2025,"8,20",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+19.10.2025,19.10.2025,"180,63",EUR,Debit,,,,,,,,Electronics store,,Electronics
+17.10.2025,17.10.2025,"22,05",EUR,Debit,,,,,,,,Lekáreň,,Health
+15.10.2025,15.10.2025,"85,44",EUR,Debit,,,,,,,,IKEA,,Home
+27.10.2025,27.10.2025,"23,27",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+07.10.2025,07.10.2025,"89,89",EUR,Debit,,,,,,,,Shell,,Fuel
+09.10.2025,09.10.2025,"14,22",EUR,Debit,,,,,,,,Lekáreň,,Health
+22.10.2025,22.10.2025,"10,56",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+07.10.2025,07.10.2025,"24,85",EUR,Debit,,,,,,,,Steam games,,Entertainment
+12.10.2025,12.10.2025,"30,31",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+09.10.2025,09.10.2025,"68,25",EUR,Debit,,,,,,,,OMV,,Fuel
+05.11.2025,05.11.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.11.2025,06.11.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.11.2025,20.11.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+11.11.2025,11.11.2025,"45,75",EUR,Debit,,,,,,,,Steam games,,Entertainment
+02.11.2025,02.11.2025,"10,51",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+04.11.2025,04.11.2025,"72,44",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+07.11.2025,07.11.2025,"8,70",EUR,Debit,,,,,,,,Cinema,,Entertainment
+24.11.2025,24.11.2025,"17,85",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+24.11.2025,24.11.2025,"5,39",EUR,Debit,,,,,,,,Steam games,,Entertainment
+28.11.2025,28.11.2025,"12,51",EUR,Debit,,,,,,,,Hobby market,,Home
+11.11.2025,11.11.2025,"20,99",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+28.11.2025,28.11.2025,"16,78",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+13.11.2025,13.11.2025,"18,70",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+27.11.2025,27.11.2025,"16,39",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+12.11.2025,12.11.2025,"13,43",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+22.11.2025,22.11.2025,"20,35",EUR,Debit,,,,,,,,Hobby market,,Home
+09.11.2025,09.11.2025,"15,14",EUR,Debit,,,,,,,,Lekáreň,,Health
+27.11.2025,27.11.2025,"16,91",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+15.11.2025,15.11.2025,"42,69",EUR,Debit,,,,,,,,OMV,,Fuel
+14.11.2025,14.11.2025,"13,96",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+22.11.2025,22.11.2025,"58,53",EUR,Debit,,,,,,,,Shell,,Fuel
+02.11.2025,02.11.2025,"9,70",EUR,Debit,,,,,,,,Netflix,,Subscription
+19.11.2025,19.11.2025,"13,64",EUR,Debit,,,,,,,,Hobby market,,Home
+06.11.2025,06.11.2025,"5,01",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+13.11.2025,13.11.2025,"5,93",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+13.11.2025,13.11.2025,"7,51",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+13.11.2025,13.11.2025,"19,12",EUR,Debit,,,,,,,,Lekáreň,,Health
+03.11.2025,03.11.2025,"9,39",EUR,Debit,,,,,,,,Gym entry,,Fitness
+11.11.2025,11.11.2025,"211,21",EUR,Debit,,,,,,,,Alza,,Electronics
+02.11.2025,02.11.2025,"1,15",EUR,Debit,,,,,,,,MHD lístok,,Transport
+02.11.2025,02.11.2025,"7,90",EUR,Debit,,,,,,,,McDonald's,,Dining
+09.11.2025,09.11.2025,"51,04",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+13.11.2025,13.11.2025,"7,86",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+08.11.2025,08.11.2025,"11,74",EUR,Debit,,,,,,,,Gym entry,,Fitness
+07.11.2025,07.11.2025,"11,39",EUR,Debit,,,,,,,,Cinema,,Entertainment
+03.11.2025,03.11.2025,"44,78",EUR,Debit,,,,,,,,OMV,,Fuel
+07.11.2025,07.11.2025,"13,56",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+20.11.2025,20.11.2025,"18,73",EUR,Debit,,,,,,,,Lekáreň,,Health
+01.11.2025,01.11.2025,"29,76",EUR,Debit,,,,,,,,Billa,,Groceries
+24.11.2025,24.11.2025,"70,15",EUR,Debit,,,,,,,,Shell,,Fuel
+28.11.2025,28.11.2025,"29,54",EUR,Debit,,,,,,,,Kaufland,,Groceries
+13.11.2025,13.11.2025,"25,08",EUR,Debit,,,,,,,,Clothing store,,Clothing
+07.11.2025,07.11.2025,"12,09",EUR,Debit,,,,,,,,Netflix,,Subscription
+03.11.2025,03.11.2025,"9,22",EUR,Debit,,,,,,,,Netflix,,Subscription
+11.11.2025,11.11.2025,"57,44",EUR,Debit,,,,,,,,Shell,,Fuel
+10.11.2025,10.11.2025,"163,95",EUR,Debit,,,,,,,,Electronics store,,Electronics
+26.11.2025,26.11.2025,"60,16",EUR,Debit,,,,,,,,Shell,,Fuel
+09.11.2025,09.11.2025,"34,78",EUR,Debit,,,,,,,,Clothing store,,Clothing
+17.11.2025,17.11.2025,"8,03",EUR,Debit,,,,,,,,Cinema,,Entertainment
+26.11.2025,26.11.2025,"9,10",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+27.11.2025,27.11.2025,"15,03",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+24.11.2025,24.11.2025,"1,19",EUR,Debit,,,,,,,,MHD lístok,,Transport
+28.11.2025,28.11.2025,"21,64",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+03.11.2025,03.11.2025,"17,26",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+24.11.2025,24.11.2025,"39,67",EUR,Debit,,,,,,,,Electronics store,,Electronics
+11.11.2025,11.11.2025,"7,93",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+14.11.2025,14.11.2025,"10,23",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+23.11.2025,23.11.2025,"228,97",EUR,Debit,,,,,,,,Electronics store,,Electronics
+01.11.2025,01.11.2025,"9,59",EUR,Debit,,,,,,,,Kaufland,,Groceries
+07.11.2025,07.11.2025,"26,74",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+21.11.2025,21.11.2025,"39,71",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+09.11.2025,09.11.2025,"46,70",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+03.11.2025,03.11.2025,"15,32",EUR,Debit,,,,,,,,McDonald's,,Dining
+06.11.2025,06.11.2025,"19,09",EUR,Debit,,,,,,,,Lekáreň,,Health
+28.11.2025,28.11.2025,"9,89",EUR,Debit,,,,,,,,McDonald's,,Dining
+10.11.2025,10.11.2025,"1,05",EUR,Debit,,,,,,,,MHD lístok,,Transport
+15.11.2025,15.11.2025,"66,80",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+14.11.2025,14.11.2025,"85,23",EUR,Debit,,,,,,,,Shell,,Fuel
+12.11.2025,12.11.2025,"33,90",EUR,Debit,,,,,,,,Yeme (delikatesy),,Groceries
+23.11.2025,23.11.2025,"167,65",EUR,Debit,,,,,,,,Electronics store,,Electronics
+13.11.2025,13.11.2025,"205,49",EUR,Debit,,,,,,,,Alza,,Electronics
+05.11.2025,05.11.2025,"23,02",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+08.11.2025,08.11.2025,"22,08",EUR,Debit,,,,,,,,IKEA,,Home
+23.11.2025,23.11.2025,"10,70",EUR,Debit,,,,,,,,Netflix,,Subscription
+05.11.2025,05.11.2025,"117,44",EUR,Debit,,,,,,,,Alza,,Electronics
+14.11.2025,14.11.2025,"28,62",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+14.11.2025,14.11.2025,"0,90",EUR,Debit,,,,,,,,MHD lístok,,Transport
+11.11.2025,11.11.2025,"44,25",EUR,Debit,,,,,,,,Kaufland,,Groceries
+03.11.2025,03.11.2025,"51,60",EUR,Debit,,,,,,,,Hobby market,,Home
+27.11.2025,27.11.2025,"23,30",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+16.11.2025,16.11.2025,"32,63",EUR,Debit,,,,,,,,Hobby market,,Home
+22.11.2025,22.11.2025,"10,22",EUR,Debit,,,,,,,,McDonald's,,Dining
+16.11.2025,16.11.2025,"11,76",EUR,Debit,,,,,,,,Lekáreň,,Health
+06.11.2025,06.11.2025,"8,31",EUR,Debit,,,,,,,,Gym entry,,Fitness
+12.11.2025,12.11.2025,"30,94",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+03.11.2025,03.11.2025,"11,34",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+08.11.2025,08.11.2025,"6,26",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+14.11.2025,14.11.2025,"20,11",EUR,Debit,,,,,,,,Billa,,Groceries
+05.12.2025,05.12.2025,"1450,00",EUR,Credit,,ACC-100001,,SK0000000000000000000000,,,,Salary,Employer s.r.o.,Salary
+06.12.2025,06.12.2025,"420,00",EUR,Debit,,ACC-200001,,SK0000000000000000000000,,,,Monthly rent,Rental Services,Rent
+20.12.2025,20.12.2025,"14,99",EUR,Debit,,,,,,,,Spotify subscription,,Subscription
+01.12.2025,01.12.2025,"35,64",EUR,Debit,,,,,,,,OMV,,Fuel
+09.12.2025,09.12.2025,"11,91",EUR,Debit,,,,,,,,Kaufland,,Groceries
+19.12.2025,19.12.2025,"17,91",EUR,Debit,,,,,,,,Billa,,Groceries
+18.12.2025,18.12.2025,"14,54",EUR,Debit,,,,,,,,Kaufland,,Groceries
+04.12.2025,04.12.2025,"64,35",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+03.12.2025,03.12.2025,"11,34",EUR,Debit,,,,,,,,Billa,,Groceries
+04.12.2025,04.12.2025,"14,41",EUR,Debit,,,,,,,,Gym entry,,Fitness
+15.12.2025,15.12.2025,"8,78",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+28.12.2025,28.12.2025,"8,90",EUR,Debit,,,,,,,,Kaviareň,,Coffee
+18.12.2025,18.12.2025,"23,64",EUR,Debit,,,,,,,,Alza,,Electronics
+25.12.2025,25.12.2025,"36,35",EUR,Debit,,,,,,,,Hobby market,,Home
+14.12.2025,14.12.2025,"13,34",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+14.12.2025,14.12.2025,"17,81",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+25.12.2025,25.12.2025,"66,30",EUR,Debit,,,,,,,,Clothing store,,Clothing
+26.12.2025,26.12.2025,"7,18",EUR,Debit,,,,,,,,Gym entry,,Fitness
+18.12.2025,18.12.2025,"33,29",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+25.12.2025,25.12.2025,"9,34",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+27.12.2025,27.12.2025,"17,64",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+18.12.2025,18.12.2025,"17,56",EUR,Debit,,,,,,,,Restaurant Bratislava,,Dining
+09.12.2025,09.12.2025,"21,50",EUR,Debit,,,,,,,,Lekáreň,,Health
+06.12.2025,06.12.2025,"16,48",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+10.12.2025,10.12.2025,"53,21",EUR,Debit,,,,,,,,Clothing store,,Clothing
+19.12.2025,19.12.2025,"52,02",EUR,Debit,,,,,,,,Hobby market,,Home
+15.12.2025,15.12.2025,"33,02",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+28.12.2025,28.12.2025,"17,80",EUR,Debit,,,,,,,,Železničný lístok,,Transport
+10.12.2025,10.12.2025,"28,38",EUR,Debit,,,,,,,,Hobby market,,Home
+09.12.2025,09.12.2025,"29,28",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+26.12.2025,26.12.2025,"48,57",EUR,Debit,,,,,,,,Shell,,Fuel
+02.12.2025,02.12.2025,"66,66",EUR,Debit,,,,,,,,OMV,,Fuel
+09.12.2025,09.12.2025,"94,60",EUR,Debit,,,,,,,,Electronics store,,Electronics
+22.12.2025,22.12.2025,"75,92",EUR,Debit,,,,,,,,OMV,,Fuel
+19.12.2025,19.12.2025,"14,78",EUR,Debit,,,,,,,,McDonald's,,Dining
+26.12.2025,26.12.2025,"138,78",EUR,Debit,,,,,,,,IKEA,,Home
+06.12.2025,06.12.2025,"19,34",EUR,Debit,,,,,,,,Haircut / Barber,,Services
+02.12.2025,02.12.2025,"65,01",EUR,Debit,,,,,,,,OMV,,Fuel
+23.12.2025,23.12.2025,"8,03",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+20.12.2025,20.12.2025,"82,20",EUR,Debit,,,,,,,,Shell,,Fuel
+23.12.2025,23.12.2025,"59,07",EUR,Debit,,,,,,,,Alza,,Electronics
+03.12.2025,03.12.2025,"76,10",EUR,Debit,,,,,,,,Clothing store,,Clothing
+11.12.2025,11.12.2025,"15,34",EUR,Debit,,,,,,,,Lekáreň,,Health
+26.12.2025,26.12.2025,"104,17",EUR,Debit,,,,,,,,Alza,,Electronics
+26.12.2025,26.12.2025,"21,29",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+04.12.2025,04.12.2025,"39,92",EUR,Debit,,,,,,,,Steam games,,Entertainment
+01.12.2025,01.12.2025,"70,35",EUR,Debit,,,,,,,,Slovnaft,,Fuel
+04.12.2025,04.12.2025,"11,34",EUR,Debit,,,,,,,,Cinema,,Entertainment
+13.12.2025,13.12.2025,"217,75",EUR,Debit,,,,,,,,Electronics store,,Electronics
+19.12.2025,19.12.2025,"200,07",EUR,Debit,,,,,,,,Alza,,Electronics
+04.12.2025,04.12.2025,"28,87",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+18.12.2025,18.12.2025,"1,11",EUR,Debit,,,,,,,,MHD lístok,,Transport
+03.12.2025,03.12.2025,"10,66",EUR,Debit,,,,,,,,Tesco Bratislava,,Groceries
+13.12.2025,13.12.2025,"17,18",EUR,Debit,,,,,,,,IKEA,,Home
+07.12.2025,07.12.2025,"1,07",EUR,Debit,,,,,,,,MHD lístok,,Transport
+03.12.2025,03.12.2025,"9,07",EUR,Debit,,,,,,,,Lidl Bratislava,,Groceries
+22.12.2025,22.12.2025,"13,36",EUR,Debit,,,,,,,,Bistro/Obed menu,,Dining
+25.12.2025,25.12.2025,"12,39",EUR,Debit,,,,,,,,Kaufland,,Groceries
+08.12.2025,08.12.2025,"10,13",EUR,Debit,,,,,,,,Bolt / Uber,,Transport
+10.12.2025,10.12.2025,"50,26",EUR,Debit,,,,,,,,Shell,,Fuel
+25.12.2025,25.12.2025,"1,20",EUR,Debit,,,,,,,,MHD lístok,,Transport
+23.12.2025,23.12.2025,"14,00",EUR,Debit,,,,,,,,Drogéria (DM),,Health
+02.12.2025,02.12.2025,"8,00",EUR,Debit,,,,,,,,Lekáreň,,Health
+16.12.2025,16.12.2025,"6,37",EUR,Debit,,,,,,,,Billa,,Groceries
+20.12.2025,20.12.2025,"96,96",EUR,Debit,,,,,,,,Hobby market,,Home
+25.12.2025,25.12.2025,"29,94",EUR,Debit,,,,,,,,Billa,,Groceries
+14.12.2025,14.12.2025,"21,05",EUR,Debit,,,,,,,,Concert ticket,,Entertainment
+09.12.2025,09.12.2025,"12,08",EUR,Debit,,,,,,,,Netflix,,Subscription
+23.12.2025,23.12.2025,"80,68",EUR,Debit,,,,,,,,Shell,,Fuel
+24.12.2025,24.12.2025,"16,43",EUR,Debit,,,,,,,,Železničný lístok,,Transport
