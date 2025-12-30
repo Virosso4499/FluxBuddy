@@ -1,11 +1,5 @@
-//
-//  FluxBuddyApp.swift
-//  FluxBuddy
-//
-//  Created by Matúš Juhász on 22/12/2025.
-//
-
 import SwiftUI
+import SwiftData
 
 @main
 struct FluxBuddyApp: App {
@@ -13,5 +7,6 @@ struct FluxBuddyApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: [TransactionEntity.self, BudgetEntity.self, RecurringEntity.self])
     }
 }
