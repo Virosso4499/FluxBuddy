@@ -1,0 +1,8 @@
+# FluxBuddy
+
+SwiftUI app (iOS + macOS) for cashflow tracking.
+
+## How to run
+1. Open `FluxBuddy.xcodeproj` in Xcode
+2. Run on iOS Simulator or macOS
+3. Data auto-refreshes on launch from `FluxBuddy/transactions.csv` into SwiftData
